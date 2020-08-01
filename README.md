@@ -1,1 +1,2 @@
-# Python_second_review
+# Second_review
+Запускайте файл run.sh
